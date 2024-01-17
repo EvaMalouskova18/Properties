@@ -11,7 +11,7 @@ namespace Properties
         static void Main(string[] args)
         {
 
-            Car car = new Car("Porsche");
+            Car car = new Car("Ford");
 
             Console.WriteLine(car.Model);
 
